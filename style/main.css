@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  line-height: 1.6;
+  font-family: "Quicksand", sans-serif;
+  color: #222;
+  padding: 20px;
+  background: #fdfdfd;
+}
+
+.container-cv {
+  max-width: 800px;
+  margin: 40px auto;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+  padding: 40px 20px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: rgb(2, 119, 2);
+  margin: 40px 0 15px 0;
+  font-size: 1.5em;
+}
+
+h3 {
+  color: rgb(2, 2, 168);
+  margin: 15px 0 10px 0;
+  font-size: 1.1em;
+}
+
+p {
+  margin: 6px 0;
+}
+
+ul {
+  margin: 15px 0 20px 40px;
+}
+
+address p {
+  margin: 3px 0;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+}
